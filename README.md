@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🍵| I'm Java Developer
-📞| [discord](https://discord.com/users/466609790282629130)
-🇮🇩
+- 🍵| I'm Java Developer
+- 📞| [discord](https://discord.com/users/466609790282629130)
+- 🇮🇩
 <!--
 **Zioxs/zioxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
