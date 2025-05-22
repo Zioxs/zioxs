@@ -2,6 +2,7 @@
 
 - 🍵| I'm Java Developer
 - 📞| _[discord.com/zioxs](https://discord.com/users/466609790282629130)_
+- 📋| _[portfolio](https://zioxs.github.io/)_
 - 🇮🇩
 <!--
 **Zioxs/zioxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
